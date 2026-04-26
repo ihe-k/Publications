@@ -32,5 +32,5 @@ The K2A Cycle: A continuous process consisting of four stages:
 
 For Teams: Use the practical checklist and the four key questions—Who, Why, What, How—to develop your Knowledge to Action plan at the start of each project, ensuring your work effectively informs decision-making and drives change.
 
-For detailed information, please refer to the full publication:
+For detailed information, please refer to the full publication:  
 [Turning Knowledge into Action](https://analysisfunction.civilservice.gov.uk/policy-store/turning-knowledge-into-action)
