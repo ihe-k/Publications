@@ -1,6 +1,6 @@
 # Publications
 
-## [Carbon Monoxide Incidents in the UK (2012–2024)](link-to-publication)
+## [Carbon Monoxide Incidents in the UK (2012–2024)](https://github.com/ihe-k/Publications/blob/main/CO-Incidents_in_the_UK.md)
 This repository contains data analysis related to carbon monoxide (CO) incidents in the United Kingdom from 2012 to 2023. Key insights include incident trends, dwelling type breakdowns, geographical distribution, and public health recommendations.
 
 ## [Fire and Rescue Incident Statistics (YE December 2025)](link-to-publication)
