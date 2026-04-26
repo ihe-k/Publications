@@ -1,4 +1,4 @@
-# Fire and Rescue Incident Statistics, year ending December 2025 
+# Fire and Rescue Incident Statistics (YE December 2025)
 
 This publication provides up-to-date statistics on trends in fires, casualties, false alarms and non-fire incidents attended by fire and rescue services in England. The data is updated quarterly and offers valuable insights into operational patterns and public safety.
 
