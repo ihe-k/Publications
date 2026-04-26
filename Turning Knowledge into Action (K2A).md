@@ -15,7 +15,7 @@ The K2A Cycle: A continuous process consisting of four stages:
 * Implement: Apply solutions and monitor effectiveness  
 * Evaluate: Reflect on lessons learned and outcomes
 
-## Core Activities:  
+## Core Activities
 
 * Awareness Building  
 * Stakeholder Engagement  
@@ -23,7 +23,7 @@ The K2A Cycle: A continuous process consisting of four stages:
 * Facilitating Interaction  
 * Skill Building
 
-## Using the Framework:  
+## Using the Framework 
 
 * Identify your audience and understand their needs  
 * Clarify your purpose and main messages  
