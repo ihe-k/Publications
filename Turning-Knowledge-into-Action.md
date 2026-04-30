@@ -1,6 +1,6 @@
 # Turning Knowledge into Action
 
-Overview:"Turning Knowledge into Action" (K2A) is a guidance framework developed by the Office for Health Improvement and Disparities (OHID) to enhance policy and decision-making through effective use of data and evidence. It aims to bridge the gap between data and action by presenting information in accessible formats, providing context and linking to wider knowledge sources.
+Overview: "Turning Knowledge into Action" (K2A) is a guidance framework developed by the Office for Health Improvement and Disparities (OHID) to enhance policy and decision-making through effective use of data and evidence. It aims to bridge the gap between data and action by presenting information in accessible formats, providing context and linking to wider knowledge sources.
 
 ## Key Principles 
 
