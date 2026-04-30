@@ -1,6 +1,6 @@
 # Carbon Monoxide Incidents in the UK (2012–2024)
 
-This repository contains data analysis related to carbon monoxide (CO) incidents in the United Kingdom from 2012 to 2023.
+This repository contains data analysis related to carbon monoxide (CO) incidents in the United Kingdom from 2012 to 2024.
 
 Key Highlights
 
