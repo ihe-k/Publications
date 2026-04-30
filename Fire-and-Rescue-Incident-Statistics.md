@@ -2,8 +2,6 @@
 
 This publication provides up-to-date statistics on trends in fires, casualties, false alarms and non-fire incidents attended by fire and rescue services in England. The data is updated quarterly and offers valuable insights into operational patterns and public safety.
 
-This publication provides updated statistics on trends in fires, casualties, false alarms, and non-fire incidents attended by fire and rescue services in England. The data is refreshed quarterly, offering valuable insights into operational patterns and public safety.
-
 Analysis Techniques:
 
 * Data aggregation and summarisation using SQL, R and MS Excel
